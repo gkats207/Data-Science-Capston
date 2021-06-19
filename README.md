@@ -1,1 +1,1 @@
-# Data-Science-Capston
+# Data-Science-Capstone
